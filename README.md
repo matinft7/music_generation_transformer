@@ -69,10 +69,6 @@ Epoch 8 Summary: Train Loss: 1.5159 | Val Loss: 1.8227
 Epoch 9 Summary: Train Loss: 1.4967 | Val Loss: 1.8130
 --> Saved new best model to /kaggle/working/best_music_transformer.pt (Val Loss: 1.8130)
 Epoch 10 Summary: Train Loss: 1.4894 | Val Loss: 1.8189
-Loaded best model for generation.
-Generating sample music...
-Starting generation for 512 tokens...
-Saving generated MIDI to /kaggle/working/generated.mid
 ```
 
 ---
